@@ -1,0 +1,1 @@
+# mcp-server-to-manipulate-kubernetes-cluster
